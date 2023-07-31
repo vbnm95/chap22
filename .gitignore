@@ -1,0 +1,8 @@
+*.pw
+*.class
+*.swp
+.classpath
+.project
+.settings 
+bin/
+node_modules/
